@@ -3,6 +3,6 @@
 
 ## GoogLeNet
 
-## XceptionNet
+## Xception
 
 ## CBAM Study
