@@ -1,4 +1,5 @@
 ## GoogLeNet (Inception v1) — 2014.09
+[![Open in Notion](https://img.shields.io/badge/Open%20in-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/GoogLeNet-279ccff627fb80da8d15dd21a4c5e761)
 
 ## ResNet — 2015.12
 
