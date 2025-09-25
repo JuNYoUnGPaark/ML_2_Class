@@ -1,1 +1,8 @@
-# ML_2_Class
+## SENet Study Notes (Notion)
+[![Open in Notion](https://img.shields.io/badge/Open%20in-Notion-black?logo=notion&logoColor=white)](https://www.notion.so/SENet-278ccff627fb80a8989ec89fb6edc4f2)
+
+## GoogLeNet 
+
+## XceptionNet
+
+## CBAM
