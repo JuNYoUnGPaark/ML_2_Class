@@ -11,3 +11,4 @@
 [![Open in Notion](https://img.shields.io/badge/Open%20in-Notion-black?logo=notion&logoColor=white)](https://wheat-range-dd8.notion.site/SENet-278ccff627fb80a8989ec89fb6edc4f2?pvs=74)
 
 ## CBAM — 2018.07
+[![Open in Notion](https://img.shields.io/badge/Open%20in-Notion-black?logo=notion&logoColor=white)](https://wheat-range-dd8.notion.site/CBAM-27bccff627fb803a9bc9e39a6b7f7ca8?pvs=73)
